@@ -23,3 +23,4 @@ future aggiunte:
 - asintodi orizzontali
 - spiegazione e illustrazione del calcolo dei limiti
 - porting su sitemi Unix
+- funzioni complesse(sin, cos, log, sqrt) e composte

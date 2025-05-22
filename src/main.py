@@ -10,9 +10,7 @@ if __name__ == "__main__":
     main() 
 
 #TODO:
-# - Cambiare il font dei label interni
+# - Cambiare il font dei label interni in Roboto
 # - Spostare a sinistra il pulsante disegna grafico
-# - Impostare dimensione varibile ma fissa della finestra
-# - Aggiungere spaziatura nel lim h->0
-# - Provare il tutto in WSL e con tema light
+# - Provare il tutto in WSL e con tema light(con uno switch in alto a destra)
 # - Provare a esportarlo come .exe
